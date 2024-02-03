@@ -1,7 +1,7 @@
 Subject Line (50-)
 
-Description of the commit in detail. Remember to explain what, how and why. Don't get fancy.
-- 
+Description of the commit in detail. Remember to explain what, why. Don't get fancy.
+This line is seventy two characters long, don't go over this if you can.
 - 
 -
 
