@@ -1,0 +1,9 @@
+Subject Line (50-)
+
+Description of the commit in detail. Remember to explain what, how and why. Don't get fancy.
+- 
+- 
+-
+
+Resolves: #
+See also: # , #
